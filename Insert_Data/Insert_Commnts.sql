@@ -27,7 +27,7 @@ INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Flawless outstandi
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('The stars, the moon, and the sun are minor to me since you sparkle brighter than all of them.',45,25);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You are graceful.',21,47);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Surely you would have been arrested if looking immensely beautiful was a crime.',3,46);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You’re an incredibly stunning, a really pretty, beautiful woman.',51,39);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Youâ€™re an incredibly stunning, a really pretty, beautiful woman.',51,39);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('I guess this is your best look, you look beautiful in this outfit.',37,47);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You look mesmerizing.',68,22);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('I wonder how cute you would be looking when you sleep.',6,35);
@@ -54,8 +54,8 @@ INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('. Your sense of fa
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('I like your hair.',25,32);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('. You look more beautiful than in the photo.',24,25);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You look stunning.',94,15);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You’re classy.',89,34);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You’re very trendy',100,1);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Youâ€™re classy.',89,34);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Youâ€™re very trendy',100,1);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Landscape/Scenery:',75,40);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Great shot!',82,29);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Nice shot!!',93,6);
@@ -101,7 +101,7 @@ INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Enjoy!!',18,16);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('??????(the drooling mouth emoji)',73,5);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Death of a loved one:',30,31);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Sorry for your loss. My condolences go to you and your family.',26,37);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Rip (person’s name).',80,49);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Rip (personâ€™s name).',80,49);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Sorry for your loss, friend. If you need to talk, I''m always there for you.',48,43);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('My condolences.',56,5);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Anniversary:',66,50);
@@ -122,7 +122,7 @@ INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Beautiful picture,
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Woow!! Hands down!!',45,27);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('This is purely magic.',18,36);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Your content is amazing.',19,6);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Nice shot… etc etc :)',21,29);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Nice shotâ€¦ etc etc :)',21,29);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Your beauty is irresistible!!',49,25);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('You look energetic.',13,14);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Impressive picture.',100,20);
@@ -133,7 +133,7 @@ INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Your smile makes m
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Looking Gorgeous.',83,43);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('This picture made my day.',59,45);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Your beauty has no boundaries.',3,12);
-INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('My word can’t describe your beauty!!',67,22);
+INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('My word canâ€™t describe your beauty!!',67,22);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Your eyes sparkle like something I''ve never seen before.',27,8);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('Handsome hunk',35,15);
 INSERT INTO COMMENTS(comment_text, post_id, user_id) VALUES ('That beard tho (if you go in for details)',86,50);
